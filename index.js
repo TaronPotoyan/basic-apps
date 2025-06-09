@@ -42,4 +42,9 @@ function Delete() {
             ul.appendChild(task);
     }   
 }
+function a () {
+    console.log('aaaaa');
+    
+}
+
 
